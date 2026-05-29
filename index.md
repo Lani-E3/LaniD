@@ -15,7 +15,7 @@ University of California, San Diego
 - Concerts 🎵
 - Trying new foods
 
-## Travel Bucketlist 
+## Travel Bucketlist ✈️
 1. Japan
 2. Thailand
 3. Greece
