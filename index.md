@@ -7,6 +7,7 @@ University of California, San Diego
 
 ## Random Quote
 > I love you. Liar!
+![anakin skywalker](https://i.redd.it/ccclvxukyphd1.jpeg)
 
 ## Favorites
 - Dilly dallying
