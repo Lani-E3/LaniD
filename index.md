@@ -21,3 +21,4 @@
 # for some int n
 for (int i = 0; i < n; i++) {...}
 ```
+![silly dog jpg](https://i.pinimg.com/736x/86/84/57/868457c39ac2f160956b61ebdb6a5de8.jpg)
