@@ -9,7 +9,7 @@
 
 ## Favorites
 - Dilly dallying
-- Concerts :notes:
+- Concerts 🎵:
 - Trying new foods
 
 ## Numbers
