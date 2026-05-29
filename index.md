@@ -13,10 +13,10 @@ University of California, San Diego
 - Concerts 🎵
 - Trying new foods
 
-## Numbers
-1. One
-2. Two
-3. Three
+## Travel Bucketlist 
+1. Japan
+2. Thailand
+3. Greece
 
 ## Inline Code
 `printf("Cooked");` wowow
