@@ -1,7 +1,8 @@
 # Elaine Dao
 --- 
-- Year: 2nd
 - Major: Cognitive Science
+- Minor: Computer Science
+- Year: 2nd
 
 ## Random Quote
 > I love you. Liar!
