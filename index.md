@@ -3,9 +3,13 @@
 - Year: 2nd
 - Major: Cognitive Science
 
-## Favorites
+## Random Quote
 > I love you. Liar!
+
+## Favorites
 - Dilly dallying
+- Concerts :notes:
+- Trying new foods
 
 ## Numbers
 1. One
