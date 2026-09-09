@@ -3,7 +3,7 @@
 University of California, San Diego
 - Major: Cognitive Science
 - Minor: Computer Science
-- Year: 2nd
+- Year: 3rd
 
 ## Random Quote
 > I love you. Liar!
